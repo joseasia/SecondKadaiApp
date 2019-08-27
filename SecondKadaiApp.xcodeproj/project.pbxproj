@@ -12,6 +12,7 @@
 		345709632314BB38003D9741 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 345709612314BB38003D9741 /* Main.storyboard */; };
 		345709652314BB39003D9741 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 345709642314BB39003D9741 /* Assets.xcassets */; };
 		345709682314BB39003D9741 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 345709662314BB39003D9741 /* LaunchScreen.storyboard */; };
+		345709702314C080003D9741 /* resultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3457096F2314C080003D9741 /* resultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		345709642314BB39003D9741 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		345709672314BB39003D9741 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		345709692314BB39003D9741 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3457096F2314C080003D9741 /* resultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				345709642314BB39003D9741 /* Assets.xcassets */,
 				345709662314BB39003D9741 /* LaunchScreen.storyboard */,
 				345709692314BB39003D9741 /* Info.plist */,
+				3457096F2314C080003D9741 /* resultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				345709702314C080003D9741 /* resultViewController.swift in Sources */,
 				345709602314BB38003D9741 /* ViewController.swift in Sources */,
 				3457095E2314BB38003D9741 /* AppDelegate.swift in Sources */,
 			);

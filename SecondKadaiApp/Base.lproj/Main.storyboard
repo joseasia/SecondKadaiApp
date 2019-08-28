@@ -44,7 +44,6 @@
                             <constraint firstItem="oke-VF-sSB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="8b4-NK-3K1"/>
                             <constraint firstItem="oke-VF-sSB" firstAttribute="top" secondItem="tqb-kx-xY0" secondAttribute="bottom" constant="10" id="CcW-bt-tFf"/>
                             <constraint firstItem="tqb-kx-xY0" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LXR-7v-kin"/>
-                            <constraint firstItem="tqb-kx-xY0" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="30" id="MXq-zG-QF1"/>
                             <constraint firstItem="tqb-kx-xY0" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="MsX-TZ-22d"/>
                             <constraint firstItem="oke-VF-sSB" firstAttribute="top" secondItem="tqb-kx-xY0" secondAttribute="bottom" constant="10" id="aer-kF-O4o"/>
                             <constraint firstItem="tns-bz-Y5G" firstAttribute="top" secondItem="oke-VF-sSB" secondAttribute="bottom" constant="10" id="jK9-TN-3rs"/>
@@ -91,9 +90,8 @@
                         <constraints>
                             <constraint firstItem="hUs-VJ-sSS" firstAttribute="top" secondItem="ibs-vu-yxl" secondAttribute="bottom" constant="10" id="3h0-WP-4oL"/>
                             <constraint firstItem="hUs-VJ-sSS" firstAttribute="centerX" secondItem="7Ua-fn-T0Q" secondAttribute="centerX" id="Xdq-ty-M1X"/>
-                            <constraint firstItem="ibs-vu-yxl" firstAttribute="top" secondItem="c09-uw-eh5" secondAttribute="top" constant="30" id="ihD-m5-BID"/>
                             <constraint firstItem="ibs-vu-yxl" firstAttribute="top" secondItem="c09-uw-eh5" secondAttribute="top" constant="40" id="ikp-Ya-Ky8"/>
-                            <constraint firstItem="ibs-vu-yxl" firstAttribute="leading" secondItem="c09-uw-eh5" secondAttribute="leading" constant="10" id="k0Q-Vc-k0s"/>
+                            <constraint firstItem="ibs-vu-yxl" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="c09-uw-eh5" secondAttribute="leading" id="k0Q-Vc-k0s"/>
                             <constraint firstItem="c09-uw-eh5" firstAttribute="trailing" secondItem="ibs-vu-yxl" secondAttribute="trailing" constant="10" id="kof-Nf-iVZ"/>
                             <constraint firstItem="ibs-vu-yxl" firstAttribute="centerX" secondItem="7Ua-fn-T0Q" secondAttribute="centerX" id="mjD-i2-CE3"/>
                         </constraints>
